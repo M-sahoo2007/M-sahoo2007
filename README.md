@@ -515,7 +515,7 @@ Once your portfolio website is live, replace the placeholder below.
 | 🌍 Portfolio | `https://your-portfolio.com`                                    |
 | 💼 GitHub    | https://github.com/M-sahoo2007                                  |
 | 💼 LinkedIn  | https://www.linkedin.com/in/maheswar-sahoo-185867302            |
-| 📧 Email     | [sahoomaheswar554@gmail.com](mailto:sahoomaheswar554@gmail.com) |
+| 📧 Email     | [Email](mailto:sahoomaheswar554+githubrepocli@gmail.com) |
 
 </div>
 
