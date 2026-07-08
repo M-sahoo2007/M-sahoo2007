@@ -512,7 +512,7 @@ Next  ████████████████ Flutter • AI • Cloud 
 
 | Platform     | Link                                                            |
 | ------------ | --------------------------------------------------------------- |
-| 🌍 Portfolio | `https://maheswar007.netlify.app/`                                    |
+| 🌍 Portfolio |  https://maheswar007.netlify.app/                                    |
 | 💼 GitHub    | https://github.com/M-sahoo2007                                  |
 | 💼 LinkedIn  | https://www.linkedin.com/in/maheswar-sahoo-185867302            |
 | 📧 Email     | [Email](mailto:sahoomaheswar554+githubrepocli@gmail.com) |
