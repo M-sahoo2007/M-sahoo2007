@@ -42,7 +42,7 @@
 
 🎓 **B.Tech Computer Science & Engineering Student**
 
-📍 **Odisha, India**
+📍 **India**
 
 I'm passionate about creating software that solves real-world problems and continuously improving my skills through practical projects.
 
@@ -59,7 +59,7 @@ I enjoy exploring new technologies, building useful applications, and sharing my
 
 ---
 
-# 🎯 Current Focus
+<!-- # 🎯 Current Focus
 
 ```text
 💻 Building Full Stack Applications
@@ -70,7 +70,7 @@ I enjoy exploring new technologies, building useful applications, and sharing my
 ☁️ Learning Cloud Deployment
 🚀 Starting My Freelancing Journey
 📚 Improving DSA & Problem Solving
-```
+``` -->
 
 ---
 
@@ -504,15 +504,15 @@ Next  ████████████████ Flutter • AI • Cloud 
 
 # 🌐 Portfolio & Projects
 
-> **Coming Soon**
+<!-- > **Coming Soon** -->
 
-Once your portfolio website is live, replace the placeholder below.
+<!-- Once your portfolio website is live, replace the placeholder below. -->
 
 <div align="center">
 
 | Platform     | Link                                                            |
 | ------------ | --------------------------------------------------------------- |
-| 🌍 Portfolio | `https://your-portfolio.com`                                    |
+| 🌍 Portfolio | `https://maheswar007.netlify.app/`                                    |
 | 💼 GitHub    | https://github.com/M-sahoo2007                                  |
 | 💼 LinkedIn  | https://www.linkedin.com/in/maheswar-sahoo-185867302            |
 | 📧 Email     | [Email](mailto:sahoomaheswar554+githubrepocli@gmail.com) |
@@ -521,7 +521,7 @@ Once your portfolio website is live, replace the placeholder below.
 
 ---
 
-# 📌 Pinned Projects
+<!-- # 📌 Pinned Projects
 
 Pin these repositories on your GitHub profile for maximum impact.
 
@@ -532,7 +532,7 @@ Pin these repositories on your GitHub profile for maximum impact.
 * 🎓 Face Attendance System
 * 📚 Library Management System
 
----
+--- -->
 
 # 🏅 Achievements
 
@@ -576,7 +576,7 @@ Pin these repositories on your GitHub profile for maximum impact.
 * 🌍 My long-term goal is to build products used worldwide.
 
 ---
-
+<!-- 
 # 🐍 Contribution Snake
 
 > **Enable this after creating the GitHub Action.**
@@ -595,7 +595,7 @@ Pin these repositories on your GitHub profile for maximum impact.
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ```
 
----
+--- -->
 
 # ☕ Support My Work
 
@@ -618,8 +618,8 @@ If you enjoy my projects, consider:
 * ✅ GitHub Statistics
 * ✅ Contribution Graph
 * ✅ GitHub Trophies
-* ⏳ Snake Contribution Animation
-* ⏳ 3D Contribution Calendar
+<!-- * ⏳ Snake Contribution Animation
+* ⏳ 3D Contribution Calendar -->
 * ⏳ Portfolio Website
 * ⏳ Blog / Articles
 * ⏳ Open Source Contributions
